@@ -65,14 +65,14 @@ kaggle.com/datasets/brandao/diabetes
 ## Key Findings
 
 1. **Overall readmission rate is ~11%** across all
-   patients — consistent with national US averages
+   patients - consistent with national US averages
 
 2. **Elderly patients (70-80 age group)** show the
-   highest readmission rates — driven by multiple
+   highest readmission rates - driven by multiple
    chronic conditions
 
 3. **Number of inpatient visits** is the strongest
-   predictor of readmission — more than length
+   predictor of readmission - more than length
    of stay or medication count
 
 4. **Patients with 7+ diagnoses** have significantly
@@ -82,7 +82,7 @@ kaggle.com/datasets/brandao/diabetes
 5. **Random Forest model achieved AUC > 0.65**
    identifying high-risk patients before discharge
 
-6. **Demographic disparities exist** — certain
+6. **Demographic disparities exist** - certain
    racial groups show statistically higher
    readmission rates suggesting systemic gaps
    in care coordination
