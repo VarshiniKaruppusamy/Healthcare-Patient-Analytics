@@ -7,7 +7,7 @@ patterns using real clinical data from 130 US hospitals
 over 10 years. The project applies machine learning
 (Random Forest classifier) to predict 30-day readmission
 risk and identifies key clinical and demographic factors
-driving hospital readmissions — a $26 billion problem
+driving hospital readmissions a $26 billion problem
 in US healthcare.
 
 ---
@@ -26,7 +26,7 @@ in US healthcare.
 ## Dataset
 | Detail | Value |
 |--------|-------|
-| Source | UCI ML Repository — Diabetes 130-US Hospitals |
+| Source | UCI ML Repository - Diabetes 130-US Hospitals |
 | Records | 100,000+ patient encounters |
 | After cleaning | ~70,000 unique patients |
 | Columns | 50 clinical and demographic features |
@@ -137,7 +137,7 @@ kaggle.com/datasets/brandao/diabetes
 
 ## Author
 **Varshini Karuppusamy**
-MS Engineering Management — Northeastern University '26
+MS Engineering Management - Northeastern University '26
 karuppusamy.v@northeastern.edu
 [LinkedIn](https://www.linkedin.com/in/kvarshini17/)
 
